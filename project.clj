@@ -1,4 +1,4 @@
-(defproject dda/cryogen-markdown "0.1.6"
+(defproject dda/cryogen-markdown "0.1.7-SNAPSHOT"
   :description "Markdown parser for Cryogen"
   :url "https://github.com/cryogen-project/cryogen-markdown"
   :license {:name "Eclipse Public License"
