@@ -3,8 +3,8 @@
   :url "https://github.com/cryogen-project/cryogen-markdown"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.7.0"]
-                 [org.domaindrivenarchitecture/cryogen-core "0.1.48-SNAPSHOT"]
-                 [markdown-clj "0.9.89"]]
+  :dependencies [[org.clojure/clojure "1.9.0"]
+                 [org.domaindrivenarchitecture/cryogen-core "0.1.53.1-SNAPSHOT"]
+                 [markdown-clj "1.0.7"]]
   :deploy-repositories [["snapshots" :clojars]
                         ["releases" :clojars]])
